@@ -1,0 +1,14 @@
+C:\Users\Ryan\Documents\GitHub\Birthjday\bin\Debug\net9.0\Birthjday.exe
+C:\Users\Ryan\Documents\GitHub\Birthjday\bin\Debug\net9.0\Birthjday.deps.json
+C:\Users\Ryan\Documents\GitHub\Birthjday\bin\Debug\net9.0\Birthjday.runtimeconfig.json
+C:\Users\Ryan\Documents\GitHub\Birthjday\bin\Debug\net9.0\Birthjday.dll
+C:\Users\Ryan\Documents\GitHub\Birthjday\bin\Debug\net9.0\Birthjday.pdb
+C:\Users\Ryan\Documents\GitHub\Birthjday\obj\Debug\net9.0\Birthjday.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryan\Documents\GitHub\Birthjday\obj\Debug\net9.0\Birthjday.AssemblyInfoInputs.cache
+C:\Users\Ryan\Documents\GitHub\Birthjday\obj\Debug\net9.0\Birthjday.AssemblyInfo.cs
+C:\Users\Ryan\Documents\GitHub\Birthjday\obj\Debug\net9.0\Birthjday.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\Documents\GitHub\Birthjday\obj\Debug\net9.0\Birthjday.dll
+C:\Users\Ryan\Documents\GitHub\Birthjday\obj\Debug\net9.0\refint\Birthjday.dll
+C:\Users\Ryan\Documents\GitHub\Birthjday\obj\Debug\net9.0\Birthjday.pdb
+C:\Users\Ryan\Documents\GitHub\Birthjday\obj\Debug\net9.0\Birthjday.genruntimeconfig.cache
+C:\Users\Ryan\Documents\GitHub\Birthjday\obj\Debug\net9.0\ref\Birthjday.dll

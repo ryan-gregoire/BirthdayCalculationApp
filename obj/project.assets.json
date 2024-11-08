@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ryan\\Desktop\\100DaysofCode\\Day One\\Learning Syntax\\Learning Syntax.csproj",
-      "projectName": "Learning Syntax",
-      "projectPath": "C:\\Users\\Ryan\\Desktop\\100DaysofCode\\Day One\\Learning Syntax\\Learning Syntax.csproj",
+      "projectUniqueName": "C:\\Users\\Ryan\\Documents\\GitHub\\Birthjday\\Birthjday.csproj",
+      "projectName": "Birthjday",
+      "projectPath": "C:\\Users\\Ryan\\Documents\\GitHub\\Birthjday\\Birthjday.csproj",
       "packagesPath": "C:\\Users\\Ryan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ryan\\Desktop\\100DaysofCode\\Day One\\Learning Syntax\\obj\\",
+      "outputPath": "C:\\Users\\Ryan\\Documents\\GitHub\\Birthjday\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ryan\\AppData\\Roaming\\NuGet\\NuGet.Config"
